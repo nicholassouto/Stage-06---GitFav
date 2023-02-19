@@ -96,14 +96,6 @@ table th {
   font-size: 2rem;
 }
 
-table th:first-child {
-  border-top-left-radius: 1.2rem;
-}
-
-table th:last-child {
-  border-top-right-radius: 1.2rem;
-}
-
 table tr:nth-child(odd) {
   background-color: var(--background-td1);
 }

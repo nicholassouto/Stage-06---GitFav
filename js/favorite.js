@@ -93,7 +93,6 @@ export class FavoritesView extends Favorites {
       };
       this.tbody.append(row);
     });
-    console.log(this.entries.length);
     this.screenControl();
   }
 
